@@ -1,4 +1,4 @@
-# caredrop
+# Caredrop
 Low-cost, crowd-sourced air drop solutions to quickly deliver food, water, and medicine to remote areas.
 
 There is great need to efficiently air drop significant quantities of food, water, and medicines to distressed populations in remote locations. Numerous research groups have investigated this by using autonomous flying drones [1,2], but the solutions described so far do not scale well, Specifically, the solutions available today are limited in payload size and have a very high total solution cost. The CareDrop project is focused on what is achievable today with existing open source aircraft and autonomous guidance systems software. In addition, the concept of global and local populations crowd sourcing an air drop solution is explored so a global crowd-sourcing network can support future caredrops quickly and at much lower cost than if conducted regionally.
