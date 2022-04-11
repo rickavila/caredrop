@@ -21,7 +21,7 @@ An interesting possibility is to have groups of persons around the world perform
 
 To achieve global support for this project the designs for the aircraft have to be open, modular, and well-specified, allowing groups around the world to contribute without mismatch errors on final construction. As such it is recommended that all components are made with metric units.
 
-Clearly at this stage we are at the brainstorming phase, exploring potential plans and ideas. Hopefully soon, with the help of the open source community, we will have some initial plans and small scale tests to validate the approach.
+Clearly at this stage we are at the brainstorming phase, exploring potential plans and ideas. Hopefully soon, with the help of the open source and RC model aircraft communities, we will have some initial plans and small scale tests to validate the approach.
 
 ## References
 
